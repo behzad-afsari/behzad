@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @behzadart
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning javascript,nodejs,reactjs,linux
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
